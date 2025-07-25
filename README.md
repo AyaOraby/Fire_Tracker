@@ -129,6 +129,8 @@ File naming format: `modis_2024_<Country>.csv`
 ### 4. Run the App
 
 ```bash
+$env:Path += ";C:\Users\<your PC name>\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\Scripts"
+
 streamlit run firetracker_app.py
 ```
 
