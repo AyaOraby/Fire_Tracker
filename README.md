@@ -1,9 +1,6 @@
 
-# 🔥 Global FireTracker 2024
+# Global FireTracker 2024
 
-**Track, Analyze, and Predict Global Wildfires using MODIS 2024 Data**
-
-![FireTracker Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wildfire_icon.svg/512px-Wildfire_icon.svg.png)
 
 ---
 
